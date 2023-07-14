@@ -1,3 +1,3 @@
 # ws-remotes
 
-duration working arround WISEDU, implments a tool for debug remote android mobile app via web-socket.io.
+while working for WISEDU, i implment a tool for debug remote android mobile app using web-socket.
